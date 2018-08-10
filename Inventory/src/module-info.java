@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dipesh
+ *
+ */
+module Inventory {
+}
